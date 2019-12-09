@@ -38,6 +38,7 @@ public class Launcher {
       server.stop();
     } catch (Exception ignore) {
     }
+    System.out.println("hello");
   }
 
   public static void main(String[] args) throws Exception {
